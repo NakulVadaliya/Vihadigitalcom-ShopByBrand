@@ -2,6 +2,9 @@
     "name": "vihadigitalcom/shopbybrand",
     "description": "Vihadigitalcom Shop By Brand",
     "minimum-stability": "dev",
+    "require": {
+        "magento/magento-composer-installer": "*"
+    },
     "authors": [
         {
             "name": "Vihadigitalcom",
