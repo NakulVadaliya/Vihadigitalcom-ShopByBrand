@@ -1,6 +1,7 @@
 {
     "name": "vihadigitalcom/shopbybrand",
     "description": "Vihadigitalcom Shop By Brand",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Vihadigitalcom",
