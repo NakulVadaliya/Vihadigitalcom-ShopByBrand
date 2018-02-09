@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Vihadigitalcom. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../app/code/Magento/Backend/etc/menu.xsd">
+    <menu>
+        <add id="vihadigitalcom::base" title="shopbybrand" module="Vihadigitalcom_ShopByBrand" sortOrder="21" resource="Vihadigitalcom_ShopByBrand::sample" action="vihadigitalcom_shopbybrand/items/"/>
+<!--         <add id="vihadigitalcom_shopbybrand::shopbybrand" title="Brands" module="Vihadigitalcom_ShopByBrand" sortOrder="10" parent="vihadigitalcom::base" action="vihadigitalcom_shopbybrand/items/" resource="Vihadigitalcom_ShopByBrand::items"/> -->
+    </menu>
+</config>
